@@ -29,4 +29,4 @@ To learn more about the technologies used in this template, check out the follow
 - [React Context API](https://reactjs.org/docs/context.html)
 
 
-## Try the Demo here: https://hera-demo.replit.app/
+## Try the Demo Now.
